@@ -1,15 +1,3 @@
-<h1 align="center">Gabriel Rodrigues Bezerra</h1>
-
-<p align="center">
-  Computer Science Student • Full Stack Developer • UI/UX • AI Integration
-</p>
-
-<p align="center">
-  Building modern digital experiences with code, design and strategy.
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 Computer Science student at UNAMA
