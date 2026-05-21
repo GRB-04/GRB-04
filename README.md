@@ -22,8 +22,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GRB-04&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GRB-04&layout=compact&theme=dracula&hide_border=true&hide=PLpgSQL"/>
 
 </div>
