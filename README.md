@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Gabriel Rodrigues Bezerra</h1>
 
-<!--
-**GRB-04/GRB-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science Student • Full Stack Developer • UI/UX • AI Integration
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building modern digital experiences with code, design and strategy.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science student at UNAMA
+- 💻 Full Stack Developer focused on scalable and modern web applications
+- 🎨 Passionate about UI/UX, prototyping and premium digital experiences
+- 🤖 Exploring AI integration, automation and intelligent systems
+- 🚀 Always building, learning and improving
+
+---
+
+## 🛠 Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,supabase,postgres,docker,git,figma,python,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GRB-04&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GRB-04&layout=compact&theme=dracula&hide_border=true&hide=PLpgSQL"/>
+
+</div>
+
+---
+
+## 🎨 Design & Productivity
+
+- 🎨 Figma
+- 🖌 UI/UX Design
+- 📐 Prototyping
+- 📄 Microsoft Office
+- ☁ Google Workspace
+- 📝 Visual Documentation
+- 💡 Product Thinking
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Full Stack Development
+- 💻 SaaS Platforms
+- 🤖 AI Integration
+- 🎨 Modern UI/UX
+- ⚡ Scalable Systems
+
+---
+
+## 🌎 Connect With Me
+
+- 💼 LinkedIn: [gabrielrbezerra](https://www.linkedin.com/in/gabrielrbezerra)
